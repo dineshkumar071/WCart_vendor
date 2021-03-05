@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678425182216",
+    "firebase_url": "https://wcartvendor.firebaseio.com",
+    "project_id": "wcartvendor",
+    "storage_bucket": "wcartvendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678425182216:android:2897a62a6ee045c6aad1bd",
+        "android_client_info": {
+          "package_name": "com.example.wcartvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678425182216-nps7uk6bmvpcd9ucklrlqcluj30fo9e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wcartvendor",
+            "certificate_hash": "c2de11655b142f80c15055a842a8c6ee90b3880d"
+          }
+        },
+        {
+          "client_id": "678425182216-q1at4c527ah6k7jk8piqv2shpgnsqdpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIEUR07tbOKKGpZLV5i1wfWxTbX6wCUkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678425182216-q1at4c527ah6k7jk8piqv2shpgnsqdpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
